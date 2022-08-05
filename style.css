@@ -5,3 +5,8 @@ body{
 input {
     background: green;
 }
+
+p {
+    background-color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
